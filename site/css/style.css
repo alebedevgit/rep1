@@ -1,0 +1,18 @@
+p {
+    color: green;
+}
+.first .news p {
+    color: red;
+}
+.second .news span {
+font-weight: bold;
+}
+.news h1 {
+    background: yellow;
+}
+.news p {
+    width: 400px;
+        margin: auto;
+    line-height: 2;
+    
+}
